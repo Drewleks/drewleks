@@ -1,16 +1,31 @@
-## Hi there 👋
+### About Me
+**[Andrey Alekseev](https://t.me/drewleks)**  
+**36 years old, Russia/Kazakhstan**
 
-<!--
-**Drewleks/drewleks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Last Experience
+- **2026 - 20\*\* Open to work now as an Analytics Lead or Product Analyst**
+- 2023 - 2025 Analytics Team Lead at [01.tech](https://01.tech/) / iGaming and entertainment
+- 2020 - 2022 Lead Analyst at [Nexters](https://www.nexters.com/) / Casual games development and publishing
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Mindset Priorities and Core Competencies
+- Business thinking and analytics impact on company value
+- Valuable product management
+- People management and talents development
+- Hypothesis testing and experiments scaling
+- Data-driven culture implementation
+- Building a strong roadmap of analitics initiatives
+
+
+#### Main Tools
+- `Python` `Jupiter Notebook` `Airflow`
+- `pandas` `NumPy` `SciPy` `statsmodels`
+- `Plotly` `Matplotlib` `seaborn`
+- `ClickHouse` `SQL`
+- `Tableau` `Datalens` `Amplitude`
+- `Confluence` `Jira` `Slack` 
+- `AI-applications`
+
+
+#### Rarely Writing Notes Here, in Russian
+- [Ищу инсайты!](https://t.me/lurking_insights)
